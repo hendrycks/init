@@ -1,7 +1,5 @@
-# Generalizing and Improving Weight Initialization
-This software allows users to reproduce the results in Generalizing and Improving Weight Initialization, Dan Hendrycks and Kevin Gimpel 2016.
-
-The files cifar10_vgg.py, cnn_lstm.py, and mnist_feedforward_train_and_test.py led to the paper's results. In addition to these files, appendices.py allows for visual comparison between the different initializations in an artificial setting.
+# Adjusting for Dropout Variance in Batch Normalization and Weight Initialization
+This software allows users to reproduce the results in Adjusting for Dropout Variance in Batch Normalization and Weight Initialization, Dan Hendrycks and Kevin Gimpel 2016.
 
 # Execution
-Please install Tensorflow, Python 3+, and Keras.
+Please install Tensorflow, Lasagne, and Python 3+.
